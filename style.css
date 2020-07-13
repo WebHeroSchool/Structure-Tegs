@@ -1,4 +1,7 @@
 
+*{
+	font-family: 'Do Hyeon', sans-serif;
+}
 .header__navigation{
 	display: flex;
 	justify-content: space-between;
@@ -9,6 +12,7 @@
 }
 .header__title{
 	text-align: center;
+	font-family: 'Modak', cursive;
 }
 .header__text{
 	font-size: 20px;
